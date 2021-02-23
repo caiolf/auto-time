@@ -1,0 +1,76 @@
+*******************
+*                 *
+*       HELP      *
+*                 *
+*******************
+
+Asstec -> Digite até 6 números para entrar no campo de ASSTEC. Ex: 29612
+
+Etapa  -> Estão registradas as seguintes etapas no sistema:
+P01 - DFEMEA
+P02 - PLACAS E ESQUEMÁTICOS
+P03 - CNC
+P04 - MECANICOS 3D
+P05 - CRIAÇÃO DE GRUPO, DOCUMENTOS DO MAGNÉTICO
+P06 - Montagem do prototipo
+P08 - Teste eletrico e mecanico
+P09 - Artefatos e doc. prod.
+P10 - Montagem do lote piloto
+P11 - Teste do lote piloto
+P12 - Teste do produto final
+P13 - Doc. e instalacao de uso
+P14 - Verif. de instalacao/uso
+P15 - Estudo de novos prod./processos
+AT10 - Manutencao
+AT20 - Teste eletrico de PCI
+AT30 - Montagem mecanica
+AT40 - Isnpecao/embalgem/expedicao
+AT50 - Relatorio assistencia tec.
+Caso o usuário tente digitar alguma etapa que não está listado acima, não funcionará.
+
+Pessoa -> Estão registradas todo o time do desenvolvimento, os quais poderão ser chamados por apenas uma letra. Estas são:
+F - Rafa
+R - Robson
+A - Japa
+C - Caio
+V - Victor
+J - Junior
+Caso o usuário tente digitar alguma letra que não está listado acima, não funcionará.
+
+Consultar -> Aqui está uma opção para você consultar sua entrada de tempo. Primeiro digite a letra específica do seu nome, logo em seguida clique no botão. Automaticamente o software já te encaminhará para o vizualizador de tempos do sige.
+
+Entrar -> Entra no tempo. Selecione uma data e hora ou deixe a data e hora atual do computador
+
+Sair -> Sai no tempo. Selecione uma data e hora ou deixe a data e hora atual do computador
+
+Entrar um dia completo -> Entra um dia inteiro, respeitando o horário de trabalho de cada integrante do time. Nesta opção, a edição de hora será desabilitada.
+
+Entrar vários dias -> Entra vários dia de uma vez, respeitando o horário de trabalho de cada integrante do time. Cuidado com finais de semana e feriados, pois ele irá adicionar todos os tempos da data inicial até a final. Nesta opção, a edição de hora será desabilitada.
+
+RESET Data/Hora -> Reseta a data e a hora de acordo com a data e a hora do sistema do computador
+
+__________________________000000__________________________
+__________________________00000___________________________
+__________________________00000___________________________
+___________________________0000___________________________
+___________________________0000___________________________
+___________________________0000___________________________
+___________________________0000___________________________
+________________000000000__0000__00000000_________________
+___________00000000000000___00___00000000000000___________
+________000000000000000000__00__000000000000000000________
+_____000000000000000000000__00__00000000000000000000______
+___00000000000000000000000__00__0000000000000000000000____
+__000000000000000000000000__00__000000000000000000000000__
+_000000000000000000000______00_____0000000000000000000000_
+_00000000000000000000________________00000000000000000000_
+_00000000000000000000________________00000000000000000000_
+_00000000000000000000________________00000000000000000000_
+_000000000000000000000______________000000000000000000000_
+__000000000000000000000000______000000000000000000000000__
+___000000000000000000000000000000000000000000000000000____
+_____00000000000000000000000000000000000000000000000______
+________000000000000000000000000000000000000000000________
+___________000000000000000000000000000000000000___________
+______________00000000000000000000000000000_______________
+______________________00000000000000______________________
